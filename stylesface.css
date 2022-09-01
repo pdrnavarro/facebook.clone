@@ -1,0 +1,144 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f2f5;
+    height: 100vh;
+    font-family: sans-serif;
+    
+}
+
+.box{
+    display: flex;
+    flex-direction: column;
+    align-items: center; 
+    
+   
+}
+.loginimg{
+    width: 200px;
+}
+.main-login{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    background :white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.login{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+}
+.login input{
+    padding: 10px;
+    width: 500px;
+    border-radius: 5px;
+    border:1px solid #f0f2f5;
+    
+   
+
+}
+.btn{
+    width: 300px;
+    padding: 18px;
+    font-size:1rem;
+    background-color: #1877f2;
+    border: none;
+    color: white;
+    font-weight: bold;
+    border-radius: 5px;
+    margin-bottom: 13px;
+}
+a{
+    text-decoration: none;
+    
+}
+
+.divison{
+    margin: 10px 0;
+    height: 1px;
+    background: #f0f2f5;
+    width: 100%;
+}
+.nem button{
+    background: #42b72a;
+    color: white;
+    border: none;
+    padding: 13px;
+    border-radius: 5px;
+    font-size: 1rem;
+    font-weight: bold;
+
+}
+/* .fb_logo{
+    width: 40%;
+    margin-left: 30%;
+
+}
+
+
+.main-login{
+    background-color: white;
+    width: 500px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px wheat;
+
+
+}
+#email{
+    width: 80%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 3px;
+    padding: 10px;
+    border-radius: 5px;
+    background-color:#f0f2f5 ;
+    border: none;
+
+}
+
+#senha{
+    width: 70% ;
+    border-radius: 5px;
+    padding: 5px; 
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: none;
+    background-color: #f0f2f5;
+
+}
+
+#entrar{
+    background-color:#1877f2 ;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    width: 332px;
+    line-height: 48px;
+    color:#fff ;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+.main-aside {
+   display: flex;
+   
+   justify-content: center;
+}
+ul{
+    list-style: none ;
+}
+
+body{
+    background-color: #f0f2f5;
+} */
